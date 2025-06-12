@@ -1,2 +1,2 @@
-APP_URL=https://story-api.dicoding.dev/v1
+APP_URL=https://vioart-storyapp.netlify.app/
 MAP_SERVICE_API_KEY=C9o8LWbmHcJh2evtboca
